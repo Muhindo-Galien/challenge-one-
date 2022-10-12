@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'poppins';
+    src: url('fonts/Poppins-Regular.ttf') format('opentype');
+    font-weight: 400;
+}
+
+
+body{
+    background-color: rgb(29, 20, 20);
+    font-family: 'poppins';
+}
+
+.dk-navbar{
+    font-size: 15px;
+}
+
+.dk-navbar .nav-link {
+    border-bottom: 1px solid transparent;
+    transition: padding-bottom 0.3 ease-in-out;
+}
+
+.dk-navbar .nav-link:hover{
+    color: whitesmoke;
+    border-bottom-color: white;
+}
