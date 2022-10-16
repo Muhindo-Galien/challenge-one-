@@ -8,6 +8,7 @@
 body{
     background-color: rgb(29, 20, 20);
     font-family: 'poppins';
+    color: rgb(233, 220, 220);
 }
 
 .dk-navbar{
@@ -23,3 +24,13 @@ body{
     color: whitesmoke;
     border-bottom-color: white;
 }
+
+.brands-area{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.btn{
+    margin-top: 25px;
+}
+
