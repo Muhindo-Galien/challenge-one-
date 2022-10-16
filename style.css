@@ -23,6 +23,7 @@ body{
 .dk-navbar .nav-link:hover{
     color: whitesmoke;
     border-bottom-color: white;
+
 }
 
 .brands-area{
@@ -33,4 +34,10 @@ body{
 .btn{
     margin-top: 25px;
 }
+
+
+
+
+
+
 
